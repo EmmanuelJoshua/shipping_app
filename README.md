@@ -12,7 +12,6 @@ Shipping app built with the Flutter framework
 - shared_preferences `local data storage`
 - google_fonts `on demand fonts`
 - flutter_svg `svg images`
-- tab_indicator_styler `tab styler`
 - flutter `v3.3.10 - mobile sdk`
 
 ## App screenshots
